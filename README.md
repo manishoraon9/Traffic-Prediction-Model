@@ -1,4 +1,4 @@
-# Flipkart Gridlock 2.0 — Spatiotemporal Demand Forecasting
+# Flipkart Gridlock 2.0 - Spatiotemporal Demand Forecasting
 
 Round 1 solution for the Flipkart Gridlock 2.0 Machine Learning challenge (hosted on HackerEarth with the Bengaluru Traffic Police). The goal is to predict traffic/travel **demand** for city zones across time, using a LightGBM model.
 
